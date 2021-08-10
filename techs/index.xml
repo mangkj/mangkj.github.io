@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Techs on Michael Ang</title>
-    <link>https://mangkj.github.io/techs/</link>
+    <link>/techs/</link>
     <description>Recent content in Techs on Michael Ang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© Kun Joo Michael Ang</copyright><atom:link href="https://mangkj.github.io/techs/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© Kun Joo Michael Ang</copyright><atom:link href="/techs/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
