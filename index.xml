@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>HOME on Michael Ang</title>
-    <link>https://example.com/</link>
+    <link>https://mangkj.github.io/</link>
     <description>Recent content in HOME on Michael Ang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Kun Joo Michael Ang</copyright>
-    <lastBuildDate>Fri, 03 May 2019 09:37:55 +0200</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 May 2019 09:37:55 +0200</lastBuildDate><atom:link href="https://mangkj.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Getting started</title>
-      <link>https://example.com/posts/getting-started/</link>
+      <link>https://mangkj.github.io/posts/getting-started/</link>
       <pubDate>Fri, 03 May 2019 09:37:55 +0200</pubDate>
       
-      <guid>https://example.com/posts/getting-started/</guid>
+      <guid>https://mangkj.github.io/posts/getting-started/</guid>
       <description>&lt;p&gt;Here are some details to help you getting started with this theme.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Portfolio Definition</title>
-      <link>https://example.com/posts/portfolio-definition/</link>
+      <link>https://mangkj.github.io/posts/portfolio-definition/</link>
       <pubDate>Thu, 02 May 2019 19:49:05 +0200</pubDate>
       
-      <guid>https://example.com/posts/portfolio-definition/</guid>
+      <guid>https://mangkj.github.io/posts/portfolio-definition/</guid>
       <description>&lt;p&gt;Here are some details about the portfolio settings.&lt;/p&gt;
-&lt;figure&gt;&lt;img src=&#34;https://example.com/posts/images/portfolio-example.png&#34;
+&lt;figure&gt;&lt;img src=&#34;https://mangkj.github.io/posts/images/portfolio-example.png&#34;
          alt=&#34;Example of Portfolio page&#34;/&gt;&lt;figcaption&gt;
             &lt;p&gt;Example of Portfolio page&lt;/p&gt;
         &lt;/figcaption&gt;
@@ -33,38 +33,38 @@
     
     <item>
       <title>Archetypes management</title>
-      <link>https://example.com/posts/archetypes/</link>
+      <link>https://mangkj.github.io/posts/archetypes/</link>
       <pubDate>Thu, 02 May 2019 19:25:30 +0200</pubDate>
       
-      <guid>https://example.com/posts/archetypes/</guid>
+      <guid>https://mangkj.github.io/posts/archetypes/</guid>
       <description>&lt;p&gt;The archetypes are defined in the &lt;code&gt;archetypes&lt;/code&gt; folder, for both post and portfolio.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Shortcodes</title>
-      <link>https://example.com/posts/shortcodes/</link>
+      <link>https://mangkj.github.io/posts/shortcodes/</link>
       <pubDate>Mon, 29 Apr 2019 16:18:12 +0100</pubDate>
       
-      <guid>https://example.com/posts/shortcodes/</guid>
+      <guid>https://mangkj.github.io/posts/shortcodes/</guid>
       <description>&lt;p&gt;Introduction of the shortcodes defined in the personal-web theme.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Config File</title>
-      <link>https://example.com/posts/config-file/</link>
+      <link>https://mangkj.github.io/posts/config-file/</link>
       <pubDate>Sat, 20 Apr 2019 16:18:12 +0100</pubDate>
       
-      <guid>https://example.com/posts/config-file/</guid>
+      <guid>https://mangkj.github.io/posts/config-file/</guid>
       <description>&lt;p&gt;Here is the basic config file used for personal-web.&lt;/p&gt;
 &lt;p&gt;You can use it as a base for your website.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Open Graph image</title>
-      <link>https://example.com/posts/define-specific-og-image/</link>
+      <link>https://mangkj.github.io/posts/define-specific-og-image/</link>
       <pubDate>Sat, 20 Apr 2019 11:14:59 +0200</pubDate>
       
-      <guid>https://example.com/posts/define-specific-og-image/</guid>
+      <guid>https://mangkj.github.io/posts/define-specific-og-image/</guid>
       <description>Within any page, you can add in the FrontMatter a images array that will be used to define a specific Open Graph image.
 For example, see content/_index.md page:</description>
     </item>
