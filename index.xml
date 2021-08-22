@@ -7,7 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Kun Joo Michael Ang</copyright>
-    <lastBuildDate>Fri, 03 May 2019 09:37:55 +0200</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Aug 2021 11:01:18 +0200</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bob Ross for beginners</title>
+      <link>/posts/bobross_oilpainting/</link>
+      <pubDate>Tue, 17 Aug 2021 11:01:18 +0200</pubDate>
+      
+      <guid>/posts/bobross_oilpainting/</guid>
+      <description>&lt;p&gt;Here&amp;rsquo;s how you can go from &lt;strong&gt;zero&lt;/strong&gt; art experience to painting oil landscapes like this.&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;./posts/images/quiet_pond.jpeg&#34;
+         alt=&#34;A Quiet Pond&#34;/&gt;&lt;figcaption&gt;
+            &lt;p&gt;A Quiet Pond&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;</description>
+    </item>
+    
     <item>
       <title>Getting started</title>
       <link>/posts/getting-started/</link>
@@ -29,15 +43,6 @@
             &lt;p&gt;Example of Portfolio page&lt;/p&gt;
         &lt;/figcaption&gt;
 &lt;/figure&gt;</description>
-    </item>
-    
-    <item>
-      <title>Archetypes management</title>
-      <link>/posts/archetypes/</link>
-      <pubDate>Thu, 02 May 2019 19:25:30 +0200</pubDate>
-      
-      <guid>/posts/archetypes/</guid>
-      <description>&lt;p&gt;The archetypes are defined in the &lt;code&gt;archetypes&lt;/code&gt; folder, for both post and portfolio.&lt;/p&gt;</description>
     </item>
     
     <item>
