@@ -1,0 +1,98 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Michael Ang"
+theme = "personal-web"
+copyright="© Kun Joo Michael Ang"
+googleAnalytics = ""
+relativeURLs = true
+enableEmoji=true
+enableRobotsTXT=true
+pygmentsUseClasses=true
+pygmentsCodeFences=true
+hideMeta=true
+
+[params.intro]
+  main = "Hi, I'm Michael"
+  sub = "Welcome to my personal website"
+
+[params.main]
+  latestPublishHeader = " "
+
+[taxonomies]
+  design = "designs"
+  tech = "techs"
+
+[blackfriday]
+  hrefTargetBlank = true
+
+[params]
+  breadcrumb = true
+  accentColor = "#FD3519"
+  mainSections = ['posts'] # values: ['posts', 'hobbies'] only accept one section, to be displayed bellow 404
+
+[params.notFound]
+  gopher = "/images/gopher.png" # checkout https://gopherize.me/
+  h1 = 'Bummer!'
+  p = "It seems that this page doesn't exist."
+
+[params.sections]
+  # Define how your sections will be called
+  # when automatically pulled. For instance in the 404 page
+  posts = "article"
+
+[params.sidebar]
+  backgroundImage = '' # header background image - default "/images/default_sidebar.jpg" - Photo by Tim Marshall on Unsplash
+  gradientOverlay = '' # default: rgba(0,0,0,0.4),rgba(0,0,0,0.4)
+  logo = "/images/website_pic.jpg" 
+  favicon = ""
+  customCSS = ""
+
+[params.social]
+  linkedin = "https://www.linkedin.com/in/michael-ang-03bba2149/"
+  medium = "https://medium.com/@angkj"
+  ssrn = "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4451864"
+  resume = "/Resume_Kun_Joo_Michael_Ang.pdf"
+
+[params.contact]
+  email = "michaelangkunjoo@gmail.com"
+  text= "Contact Me" # text of the contact link in the sidebar. If email params.contact.email is defined
+
+
+[menu]
+
+[[menu.main]]
+  identifier = "about"
+  name = "About"
+  title = "About section"
+  url = "/about/"
+  weight = -120
+
+[[menu.main]]
+  identifier = "hobbies"
+  name = "Hobbies"
+  title = "Hobbies"
+  url = "/hobbies/"
+  weight = -110
+
+[[menu.main]]
+  identifier = "posts"
+  name = "Posts"
+  title = "Posts section"
+  url = "/posts/"
+  weight = -100
+
+[sitemap]
+  changefreq = "monthly"
+  filename = "sitemap.xml"
+  priority = 0.5
+
+[privacy]
+  [privacy.googleAnalytics]
+    anonymizeIP = true
+    disable = true
+    respectDoNotTrack = true
+    useSessionStorage = false
+  [privacy.twitter]
+    disable = false
+    enableDNT = true
+    simple = false
