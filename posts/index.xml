@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>POSTS on Michael Ang</title>
+    <link>/posts/</link>
+    <description>Recent content in POSTS on Michael Ang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Kun Joo Michael Ang</copyright>
+    <lastBuildDate>Mon, 18 Sep 2023 23:48:00 +0800</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ultramarathon in NYC</title>
+      <link>/posts/ultramarathon/</link>
+      <pubDate>Mon, 18 Sep 2023 23:48:00 +0800</pubDate>
+      
+      <guid>/posts/ultramarathon/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Cross-posted from my &lt;a href=&#34;https://medium.com/@angkj/how-to-run-your-first-ultramarathon-baec83a54d9e&#34;&gt;&lt;strong&gt;Medium article&lt;/strong&gt;&lt;/a&gt;. Highly recommend reading on Medium as it&amp;rsquo;s a long read and the formatting is better there.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>El Camino de Santiago</title>
+      <link>/posts/camino_de_santiago/</link>
+      <pubDate>Wed, 13 Sep 2023 11:01:18 +0800</pubDate>
+      
+      <guid>/posts/camino_de_santiago/</guid>
+      <description>&lt;p&gt;The journey of a thousand miles begins with a single stamp.&lt;/p&gt;
+&lt;center&gt;
+&lt;figure&gt;
+  &lt;img src=&#34;../posts/images/camino_de_santiago/creancial_display.jpg&#34; height=350 style=width:&amp;#32;550px &gt;
+  &lt;figcaption style=&#34;font-size: 15px; font-style: italic&#34;&gt;French pilgrim&amp;#39;s passport (créanciale) &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/center&gt;</description>
+    </item>
+    
+    <item>
+      <title>Bob Ross for beginners</title>
+      <link>/posts/bobross_oilpainting/</link>
+      <pubDate>Tue, 17 Aug 2021 11:01:18 +0200</pubDate>
+      
+      <guid>/posts/bobross_oilpainting/</guid>
+      <description>&lt;p&gt;Here&amp;rsquo;s how you can go from &lt;strong&gt;zero&lt;/strong&gt; art experience to painting oil landscapes like this.&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;../posts/images/bobross_oilpainting/quiet_pond.jpeg&#34;
+         alt=&#34;A Quiet Pond&#34;/&gt;&lt;figcaption&gt;
+            &lt;p&gt;A Quiet Pond&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
